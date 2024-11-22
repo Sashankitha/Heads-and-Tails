@@ -14,5 +14,5 @@ Developers can further enhance the game with graphical interfaces using librarie
 <h4>
   The output is shown below
 </h4>
-<img src = "output1.png">
-<img src  = "output2.png">
+<img src = "output1.png.jpeg">
+<img src  = "output2.png.jpeg">
